@@ -1,26 +1,35 @@
 ![](name.svg)
-## Hi there 👋
-### I'm Aaron Pearson (also known as Azy on the web)
-I'm a software developer which works on a wide range of applications. I work on open source projects and NDA projects (Ofc can't say what they are :P)
+## Hello fellow devs 👋
+### I'm Aaron Pearson (Mainly known as Azy on the web)
+I'm your everyday dev who creates stuff for the fun of it! Fixing problems daily with code, coffee and hugs :P
 
 ## Active Projects
-* [TinyUpdate](https://github.com/Azyyyyyy/TinyUpdate)
+### Right now these projects might not be active due to focusing my attention on learning languages!
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC)
 
-## Languages
+## Known Languages
 * C#
-* Tiny bit of C++
-* Python
+* Python (Basic knowledge)
+* Sql (Basic knowledge)
+
+## Languages I'm activity learning
+* Rust
+
+## Languages I plan to learn (more of)
+* C++ (Want to get past the basics!)
 
 ## Markup Languages
 * XAML
 
-## Technology's I know
+## Known C# Frameworks
+### Frontend Frameworks
 * WPF
 * UWP
 * Forms
 * Xamarin
-* Avalonia
+* Avalonia UI
+* Blazor
+### Backend Frameworks
 * ASP.NET Core
 
 ## PC Specs
