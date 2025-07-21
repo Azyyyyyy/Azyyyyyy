@@ -1,22 +1,23 @@
 ![](name.svg)
 ## Hello fellow devs 👋
-### I'm Aaron Pearson (Mainly known as Azy on the web)
+### I'm Aaron (Mainly known as Azy on the web)
 I'm your everyday dev who creates stuff for the fun of it! Fixing problems daily with code, coffee and hugs :P
 
 ## Active Projects
-### Right now these projects might not be active due to focusing my attention on learning languages!
-* [MultiRPC](https://github.com/FluxpointDev/MultiRPC)
+Currently working on private stuffss 🤫
 
 ## Known Languages
 * C#
 * Python (Basic knowledge)
 * Sql (Basic knowledge)
+* VB6 *yes ikik its oldTM*
+* VB.NET
 
 ## Languages I'm activity learning
-* Rust
 
 ## Languages I plan to learn (more of)
 * C++ (Want to get past the basics!)
+* Rust
 
 ## Markup Languages
 * XAML
